@@ -165,7 +165,7 @@ public class MaterialCalendarView extends ViewGroup {
      */
     public static final int DEFAULT_TILE_SIZE_DP = 44;
     private static final int DEFAULT_DAYS_IN_WEEK = 7;
-    private static final int DEFAULT_MAX_WEEKS = 6;
+    private static final int DEFAULT_MAX_WEEKS = 5;
     private static final int DAY_NAMES_ROW = 1;
 
     private static final TitleFormatter DEFAULT_TITLE_FORMATTER = new DateFormatTitleFormatter();
